@@ -3,7 +3,7 @@ NSMB2 mod that makes every level open enough for a Mega Mushroom rampage, plus s
 
 **After defeating a castle boss, press L+Down to disable Mega Mushroom before the level ends! If not, the game will freeze!*
 
-**Complete up to World 2.**
+Progress: **Complete up to World 2.**
 
 Intended for use with the following cheats at minimum:
 
